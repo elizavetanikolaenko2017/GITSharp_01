@@ -1,0 +1,15 @@
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\Zadacha_8.csproj.AssemblyReference.cache
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\Zadacha_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\Zadacha_8.AssemblyInfoInputs.cache
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\Zadacha_8.AssemblyInfo.cs
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\Zadacha_8.csproj.CoreCompileInputs.cache
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\bin\Debug\net6.0\Zadacha_8.exe
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\bin\Debug\net6.0\Zadacha_8.deps.json
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\bin\Debug\net6.0\Zadacha_8.runtimeconfig.json
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\bin\Debug\net6.0\Zadacha_8.dll
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\bin\Debug\net6.0\Zadacha_8.pdb
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\Zadacha_8.dll
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\refint\Zadacha_8.dll
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\Zadacha_8.pdb
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\Zadacha_8.genruntimeconfig.cache
+C:\Users\elizaveta\SharpPRograms_01\Zadacha_8\obj\Debug\net6.0\ref\Zadacha_8.dll
