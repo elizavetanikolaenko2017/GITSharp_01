@@ -7,12 +7,15 @@
 */
 
 System.Console.WriteLine("Введите первое число: ");
-int numberA = Convert.ToInt32(Console.ReadLine());
+int a = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите второе число: ");
-int numberB = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Введите третье число: ");
-int numberC = Convert.ToInt32(Console.ReadLine());
-if (A > B)
-{
-    System.Console.WriteLine();
-}
+int c = Convert.ToInt32(Console.ReadLine());
+int max=a;
+if (a>max) max=a;
+if (b> max) max=b;
+if (c> max) max =c;
+
+System.Console.Write("max= ");
+System.Console.WriteLine(max);
